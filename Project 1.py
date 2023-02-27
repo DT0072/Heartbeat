@@ -9,6 +9,7 @@ CANVAS_CENTER_Y = CANVAS_HEIGHT / 2.5  # Y-axis in center of canvas
 IMAGE_ENLARGE = 11  # Enlarge / Zoom in 
 HEART_COLOR = "#ff3366"  # Heart color(16 bit code)
 
+# Hello, world!
 
 def heart_function(t, shrink_ratio: float = IMAGE_ENLARGE):
     """
